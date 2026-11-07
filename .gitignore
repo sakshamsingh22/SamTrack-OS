@@ -1,5 +1,9 @@
-.next
-node_modules
+.next/
+node_modules/
 npm-debug.log*
-dist
-coverage
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+.DS_Store
